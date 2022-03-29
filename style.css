@@ -1,0 +1,46 @@
+h1 {  
+	color: #582f0e;
+	font-size: 30px;
+	font-family: Libre Franklin;
+	background: #faedcd;
+	padding: 40px;
+
+}
+
+h2 {
+	color: #582f0e;
+	font-size: 25px;
+	font-family: Libre Franklin;
+	background: #fde2e4;
+	box-shadow: 0 1px 5px;
+}
+
+.card-white {
+width : 800px;
+border-radius: 10px;
+text-align: center;
+margin : 0 auto;
+padding : 10px;
+
+}
+
+p {
+	color : #463f3a;
+	font-size : 40px; 
+	font-family: EB Garamond;
+  }
+  
+p { 
+	color: #463f3a;
+	font-size: 55px;
+	font-family: Bebas Neue;
+	background: #fde2e4;
+}
+ol { 
+	color: #582f0e;
+	font-size : 70px;
+	font-family: Libre Franklin;
+	margin: 10px
+}
+
+
